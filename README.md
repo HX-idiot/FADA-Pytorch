@@ -16,7 +16,7 @@ pytorch implement for the NIPS 2017 paper [Few-Shot Adversarial Domain Adaptatio
 
 * Run `python main.py`. 
   * Step 1 refers to pretrain model using MNIST dataset
-  * Setp 2 refers to ptrtrain DCD using G1,G2,G3,G4.
+  * Setp 2 refers to pretrain DCD using G1,G2,G3,G4.
   * Step 3 refers to train g,h and DCD iteratively.
 
 ### Evaluate
