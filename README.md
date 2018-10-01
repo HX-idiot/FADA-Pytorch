@@ -22,4 +22,5 @@ pytorch implement for the NIPS 2017 paper [Few-Shot Adversarial Domain Adaptatio
 ### Evaluate
 
 * Using 7 shot in target domain , training step 3 after 30 epoches ,I got the same result 47% acc as shown in papers
+![results](https://github.com/1025616969/FADA-Pytorch/blob/master/screenshot.png)
 
