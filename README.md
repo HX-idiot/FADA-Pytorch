@@ -5,7 +5,7 @@ pytorch implement for the NIPS 2017 paper [Few-Shot Adversarial Domain Adaptatio
 ### Install dependencies
 
 * This code has been tested on  Python 3.6. pytorch 0.4. 
-* Install [PyTorch and torchvision](http://pytorch.org/).
+* Install [PyTorch, torchvision](http://pytorch.org/) and [SciPy](https://www.scipy.org/): `pip install -r requirements.txt`
 
 
 ### Set up the  dataset
